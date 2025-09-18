@@ -2,7 +2,7 @@ DATE: 09/18/2025
 
 I am currently implementing a simple calculator program in the language C.
 
-Here are my system requirments/needs assessment for this project:
+Here are my system requirements/needs assessment for this project:
 1. Basic Arithmetic Operations: Ability to perform addition, subtraction, multiplication, and division.
 2. Percentage Calculation: To calculate percentages easily.
 4. Decimal Point: To handle calculations with decimal numbers.
